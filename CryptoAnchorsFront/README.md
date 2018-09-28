@@ -6,7 +6,7 @@ the label with the coordinates and description of the goods is transmitted to th
 For this purpose, a smart contract is created for each selected product in the blockchain network.
 When checking some special device (cryptoAnchor), the mobile application checks the digital signatures and in case of successful verification 
 the label with the coordinates and description of the goods is transmitted to the WEB service to display the goods path.
-To store the smallest amount of data inside the smart contract, a system of Naviades is used. This solution allows only 7 digits to store coordinates, 
+To store the smallest amount of data inside the smart contract, a system of Naviaddress is used. This solution allows only 7 digits to store coordinates, 
 description and accompanying files for the goods, for example, customs documents.
 WEB interface allows you to track the track track of all products added to the system.
 
